@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boolean.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/constant.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/convert_dart_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/convert_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dart_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datatype.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/double_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamically.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lists.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maps.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multi_line_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/row_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/run_time.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runes.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sets.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sp_cheracter.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/statically.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_fixed.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swap.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/var_keyword.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/variables.dart" charset="UTF-8" />
+  </component>
+</project>

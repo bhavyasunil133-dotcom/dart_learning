@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aligible_ternary.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/among_three_greater.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assert.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assert2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/assignment_operator.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boolean.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boolean_if_else_check.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/break1.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/capital_first_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/constant.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/continue.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_dart_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/convert_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_string.dart" charset="UTF-8" />
@@ -12,10 +19,27 @@
     <file url="file://$PROJECT_DIR$/dart_task/prime_or_not.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_task/swap.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/datatype.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/display_even_numbers.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/display_sum.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do_while1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do_while2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/document_comment.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/double_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamically.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonocci.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonocci_recursion.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/finally_try_catch.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach_index.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach_unicode.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/greater_no_use_terner.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/if_condition.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/if_else_condition.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/if_else_if_check.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/increament_decreament_operator.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infinite_loop.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lists.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logical_operator.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
@@ -23,12 +47,15 @@
     <file url="file://$PROJECT_DIR$/multi_line_comment.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multi_line_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/name_with_loop.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/operator.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print1_to_10.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/relational_operator.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/reverse_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/row_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/run_time.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/runes.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/select_using_ternary.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sets.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/single_line.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sp_cheracter.dart" charset="UTF-8" />
@@ -47,9 +74,19 @@
     <file url="file://$PROJECT_DIR$/string_trim.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/string_user_input.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/substring.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/switch_check.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/switch_in_enum.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/switch_in_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/throwing_exception.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/times_without_loop.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tostring.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/type_test_operator.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/var_keyword.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variables.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_even.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_loop1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_loop2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_sum.dart" charset="UTF-8" />
   </component>
 </project>
